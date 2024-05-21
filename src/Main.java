@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Please enter your weight on Earth : ");
         Scanner Earth_weight_input = new Scanner(System.in);
         int Earth_weight = Earth_weight_input.nextInt();
