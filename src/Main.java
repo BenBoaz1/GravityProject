@@ -9,7 +9,6 @@ class MyClass{
         x = i;
     }
 }
-
 public class Main {
     public static void main(String[] args) {
     MyClass a = new MyClass(10);
